@@ -8,24 +8,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Approach](#approach)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Data Preprocessing](#data-preprocessing)
-- [Feature Engineering](#feature-engineering)
-- [Model Selection](#model-selection)
-- [Results](#results)
-- [Key Insights](#key-insights)
-- [Conclusions](#conclusions)
-- [Future Enhancements](#future-enhancements)
-
----
-
 ## 🎯 Project Overview
 
 This project develops a machine learning model to predict stock prices based on historical data patterns. The model focuses on the relationship between day-over-day changes in data values and subsequent stock price movements.
